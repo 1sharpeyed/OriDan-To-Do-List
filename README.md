@@ -74,7 +74,7 @@ try {
     echo "Error de conexión: " . $e->getMessage();
     exit();
 }
-?> ```
+?>
 
 Paso 3: Ubica el proyecto en XAMPP
 
