@@ -1,4 +1,4 @@
-# To-Do-List-OriDan
+# OriDan-To-Do-List
 Proyecto To-Do List con PHP, PostgreSQL y AJAX
 
 Aplicación web para gestionar tareas pendientes (To-Do List) con operaciones de agregar, listar, editar, eliminar y marcar como completadas, todo mediante AJAX sin recargar la página.
